@@ -1,0 +1,18 @@
+:root {
+    --BTN-BACKGROUND: #313234;
+    --FONT-COLOR: #fff;
+    --CARD-BACKGROUND: #1a1a1a;
+    --CARD-BACKGROUND-HOVER: #313234;
+    --BLACK-A: #1a1a1a;
+    --BLACK-B: #1e1e20;
+    --BLUE-A: #11b0c8;
+    --BLUE-B: #42b4ca;
+    --PEAR: #bfde42;
+    --RED: #DE4242;
+    --MAX-CONTENT-WIDTH: 1240px;
+    --WHITE: #fff;
+}
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
